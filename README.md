@@ -1,0 +1,2 @@
+# CodingExercises
+Just to practice 
